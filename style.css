@@ -21,4 +21,5 @@ body {
 
 h1 {
     color: var(--accent-color);
+    text-align: center;
 }
